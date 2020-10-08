@@ -8,5 +8,5 @@ Week2
   Soru 10 ve 11'i yanlis anlamis olabilirim.  
     
 Week4  
-  week4_2 bitti    
-  week4_1 devam ediyor. 
+  week4_1 bitti    
+  week4_2 bitti. 
